@@ -1,0 +1,25 @@
+[{
+  "title": "Snipcart Logo Sticker",
+  "image": "/images/img1.jpg",
+  "id": "sticker_logo",
+  "price": "2.00"
+},
+{
+  "title": "Snipcart Logo Sticker Pack",
+  "image": "/images/img2.webp",
+  "id": "sticker_logo_pack",
+  "price": "4.00"
+},
+{
+  "title": "Snipcart Logo Sticker Pack",
+  "image": "/images/img3.jpg",
+  "id": "sticker_logo_pack",
+  "price": "4.00"
+},
+{
+  "title": "Snipcart Logo Sticker Pack",
+  "image": "/images/img4.png",
+  "id": "sticker_logo_pack",
+  "price": "4.00"
+}
+]
